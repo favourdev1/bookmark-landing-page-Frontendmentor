@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Loading...]()
-- Live Site URL: [Add live site URL here](https://favourpro.github.io/bookmark-landing-page-Frontendmentor/)
+- Live Site URL: [Add live site URL here](https://favourdev1.github.io/bookmark-landing-page-Frontendmentor/)
 
 ## My process
 
